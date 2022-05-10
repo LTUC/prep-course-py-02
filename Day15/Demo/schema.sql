@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS favanime;
+CREATE TABLE IF NOT EXISTS favanime(
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255) ,
+    url VARCHAR(255) 
+)
