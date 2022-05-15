@@ -1,0 +1,36 @@
+[
+    {
+        "id": "BJa4kxc4X",
+        "name": "Affenpinscher",
+        "url": "https://cdn2.thedogapi.com/images/BJa4kxc4X.jpg",
+        "life_span": "10 - 13 years"
+    },
+    {
+        "id": "rkiByec47",
+        "url": "https://cdn2.thedogapi.com/images/rkiByec47.jpg",
+        "name": "African Hunting Dog",
+         "life_span": "11 years"
+    },
+    {
+        "id": "1-7cgoZSh",
+        "url": "https://cdn2.thedogapi.com/images/1-7cgoZSh.jpg",
+        "name": "Airedale Terrier",
+        "life_span": "10 - 12 years"
+
+    },
+    {
+        "id": "26pHT3Qk7",
+        "url": "https://cdn2.thedogapi.com/images/26pHT3Qk7.jpg",
+        "life_span": "10 - 12 years",
+        "name": "Akbash Dog"
+
+    },
+    {
+        "id": "BFRYBufpm",
+        "url": "https://cdn2.thedogapi.com/images/BFRYBufpm.jpg",
+        "life_span": "10 - 14 years",
+        "name": "Akita"
+    }
+
+    
+]
